@@ -9,4 +9,5 @@ import Foundation
 
 print("Hello, World!")
 
-var git
+var git = 1
+var git2 = 2
